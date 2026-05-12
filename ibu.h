@@ -5,6 +5,7 @@
 #include <iostream>
 using namespace std;
 
+class ibu {
 
-
+};
 #endif
