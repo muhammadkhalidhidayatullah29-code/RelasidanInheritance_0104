@@ -3,5 +3,7 @@
 #include <iostream>
 using namespace std;
 
+class anak {
 
+};
 #endif
